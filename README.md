@@ -10,16 +10,16 @@ It uses display driver in page addressing mode, allowing you to write strings an
 
 - [x] Full custom font support
 - [x] 128x64 displays
-- [] 128x32 displays
+- [ ] 128x32 displays
 - [x] Custom I2C library support
 - [x] Char and C-string writing
-- [] Check whether driver was connected with given addres or not
-- [] Drawing functionality
-  - [] Rectangles
-  - [] Single Pixels
-  - [] More comples geometrical shapes
-  - [] Diagrams and graphics
-  - [] Custom pictures (you can just define custom font wih picture)
+- [ ] Check whether driver was connected with given addres or not
+- [ ] Drawing functionality
+  - [ ] Rectangles
+  - [ ] Single Pixels
+  - [ ] More comples geometrical shapes
+  - [ ] Diagrams and graphics
+  - [ ] Custom pictures (you can just define custom font wih picture)
 
 ## Requirements
 
