@@ -1,0 +1,24 @@
+{
+  "name": "PushedSSD1306",
+  "version": "0.0.1",
+  "description": "SSD1306 display controller library. Originally created for 128x64 LED displays.",
+  "keywords": "display, SSD1306, LED",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/pushsla/PushedSSD1306"
+  },
+  "authors":
+  [
+    {
+      "name": "pushsla",
+      "email": "push2001sla@gmail.com",
+      "url": "https://slavakievsky.github.io"
+    }
+  ],
+  "license": "DBAD_PS (see LICENSE file)",
+  "homepage": "https://github.com/pushsla/PushedSSD1306",
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "atmelavr, espressif32"
+}
