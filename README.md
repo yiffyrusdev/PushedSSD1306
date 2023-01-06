@@ -9,6 +9,8 @@ It uses display driver in page addressing mode, allowing you to write strings an
 ## Work in progress
 
 - [x] Full custom font support
+- [x] 128x64 displays
+- [] 128x32 displays
 - [x] Custom I2C library support
 - [x] Char and C-string writing
 - [] Check whether driver was connected with given addres or not
