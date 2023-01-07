@@ -16,7 +16,7 @@
       "url": "https://slavakievsky.github.io"
     }
   ],
-  "license": "DBAD_PS (see LICENSE file)",
+  "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/pushsla/PushedSSD1306",
   "dependencies": {},
   "frameworks": "*",

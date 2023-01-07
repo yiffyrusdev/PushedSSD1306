@@ -1,4 +1,4 @@
-# SSD1306 lcd driver library
+# SSD1306 led driver library
 
 ## Description
 
@@ -38,7 +38,7 @@ But you can adpot and use almost any other library if you want (see adoption exa
 
 ## Motivation
 
-There are many nice, shiny and beautiful lcd libraries for avr/esp32 etc.
+There are many nice, shiny and beautiful led libraries for avr/esp32 etc.
 
 But I wanted to use one library for all combinations of board+I2Clibrary+platform
 
@@ -52,7 +52,7 @@ Check out the examples/ subfolder
 
 ## License
 
-PushedST7567 is free software, distributed without any warranty.
+PushedSSD1306 is free software, distributed without any warranty.
 
 You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
 
