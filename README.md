@@ -53,9 +53,3 @@ Check out the examples/ subfolder
 ## License
 
 MIT
-
-**"Why GPL-3. Author, are you too proud?"**
-> Nope. Just join us now and share the software.
-> My code is neither perfect nor revolutionary. But the world is crazy, you know
-
-Any help and criticism is greatly appreciated.
