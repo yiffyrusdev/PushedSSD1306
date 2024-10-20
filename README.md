@@ -52,15 +52,7 @@ Check out the examples/ subfolder
 
 ## License
 
-PushedSSD1306 is free software, distributed without any warranty.
-
-You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
-
-Some separate files not so somplex or contain only simple definitions and you are free to use them
-as standalone without any conditions as long as you credit me somewhere
-
-## Have fun!
-If you find this code useful, I will be glad if you use it in your GPL3-or-later-compatible licensed project.
+MIT
 
 **"Why GPL-3. Author, are you too proud?"**
 > Nope. Just join us now and share the software.
